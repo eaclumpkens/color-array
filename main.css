@@ -1,0 +1,27 @@
+html {
+    display: block;
+    font-family: 'Indie Flower', cursive;
+    font-size: 15px;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+    border-radius: 0.6rem;
+    border: 0rem #fff;
+    background: #fff;
+    padding: 1rem;
+    margin: 0 auto;
+    font-size: 0.85rem;
+    font-weight: 500;
+    font: inherit;
+}
+
+.button:hover {
+    background:#000;
+    color: #fff;
+}
